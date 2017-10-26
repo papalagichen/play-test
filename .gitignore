@@ -1,5 +1,8 @@
+*.class
 .DS_Store
 .idea
-.class
+.g8
 /logs
 /target
+/project/project
+/project/target
